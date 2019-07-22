@@ -1,5 +1,5 @@
 # JOURNAL
-work journal
+
 
 July 22 2019
 
