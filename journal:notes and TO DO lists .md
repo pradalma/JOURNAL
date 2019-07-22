@@ -3,6 +3,14 @@
 
 July 22 2019
 
+cleaning up HHPC
+
+[ ] rm Eshwan's files (ask sys admin)
+
+[ ] rm Will's files (ask sys admin)
+
+------
+
 [ ] make figure for trop  -  control for SST 
 
 [ ] make figure for fvis_true - control for SST
