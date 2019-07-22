@@ -9,6 +9,8 @@ make climatologies
 
 [ ] mk_clim_trop ocean, [ ] atmos, [ ] ice
 
+----- 
+
 cleaning up HHPC
 
 [ ] rm Eshwan's files (ask sys admin)
