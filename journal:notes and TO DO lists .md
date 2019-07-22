@@ -22,13 +22,15 @@ clean up HHPC
 
 for the manuscript
 
-[\] make figure for trop  -  control for SST 
+[ ] make figure for trop  -  control for SST 
 
-[\] make figure for fvis_true - control for SST
+[ ] make figure for fvis_true - control for SST
 
-[\] make figure for trop - control for ice
+[ ] make figure for trop - control for ice
 
-[\] make figure for fvis_true - control for ice
+[ ] make figure for fvis_true - control for ice
+
+50% completed, need to discuss with AG /datascope/pradal-esm/mk_supplement2.jnl
 
 [ ] update the scalars based on all ensemble runs throughout the manuscript
     
