@@ -19,6 +19,8 @@ cleaning up HHPC
 
 ------
 
+for the manuscript
+
 [ ] make figure for trop  -  control for SST 
 
 [ ] make figure for fvis_true - control for SST
