@@ -3,6 +3,12 @@
 
 July 22 2019
 
+make climatologies
+
+[x] mk_clim_fvis ocean, [x] atmos, [x] ice
+
+[ ] mk_clim_trop ocean, [ ] atmos, [ ] ice
+
 cleaning up HHPC
 
 [ ] rm Eshwan's files (ask sys admin)
