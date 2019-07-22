@@ -7,7 +7,7 @@ make climatologies
 
 [x] mk_clim_fvis ocean, [x] atmos, [x] ice
 
-[x] mk_clim_trop ocean, [ ] atmos, [ ] ice
+[x] mk_clim_trop ocean, [x] atmos, [x] ice
 
 ----- 
 
