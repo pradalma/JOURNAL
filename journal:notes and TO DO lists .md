@@ -11,11 +11,12 @@ make climatologies
 
 ----- 
 
-cleaning up HHPC
+clean up HHPC
 
-[ ] rm Eshwan's files (ask sys admin)
+[ ] rm Eshwan's files
 
-[ ] rm Will's files (ask sys admin)
+[ ] rm Will's files
+
 
 ------
 
