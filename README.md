@@ -3,13 +3,13 @@ work journal
 
 July 22 2019
 
-make figure for trop  -  control for SST 
+[ ] make figure for trop  -  control for SST 
 
-make figure for fvis_true - control for SST
+[ ] make figure for fvis_true - control for SST
 
-make figure for trop - control for ice
+[ ] make figure for trop - control for ice
 
-make figure for fvis_true - control for ice
+[ ] make figure for fvis_true - control for ice
 
 [ ] update the scalars based on all ensemble runs throughout the manuscript
     
