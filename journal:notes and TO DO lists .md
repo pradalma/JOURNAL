@@ -1,4 +1,20 @@
 # JOURNAL
+July 31 2019
+
+convection paper linearity mixing physics
+salt oscillator (AG soon to be done)
+
+chesroms, run more years matching when Sarah has data
+e3sm new suite of runs
+implementing a dynamic length scale parameterization for lateral mixing
+higher gm min + abernathey + kim cdm
+replacing bling with topaz
+various coupled atmosphere ocean regional models roms and wrf
+
+
+
+https://hseo.whoi.edu/wp-content/uploads/sites/50/2015/11/SCOAR2_manual.pdf
+
 
 
 July 22 2019
