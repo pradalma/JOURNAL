@@ -7,16 +7,16 @@ September 13 2019
 #4 10% ...[ ] salt oscillor paper review
 
 July 31 2019
-#4 0% ...[ ]convection paper linearity mixing physics
+#4 0% ....[ ]convection paper linearity mixing physics
 isopycnal review paper : overview/perspective paper instead? insert section about other axis of current research
 
 salt oscillator (AG soon to be done)
 
-#3 0% ...[ ]chesroms, run more years matching when Sarah has data: 2017
+#3 0% ....[ ]chesroms, run more years matching when Sarah has data: 2017
 
-#2.1 0% ...[ ] e3sm new suite of runs
+#2.1 0% ..[ ] e3sm new suite of runs
 
-#1 0% ...[ ] implementing a dynamic length scale parameterization for lateral mixing
+#1 0% ....[ ] implementing a dynamic length scale parameterization for lateral mixing
 higher gm min + abernathey + kim cdm
 developing a new control run with new dynamic length scale, then add Kim and gm min. see if we get better biogeochem circ
 design document from Anand 
@@ -68,10 +68,10 @@ set view ll
 sha/set_up/lev=(0,1,.1)(inf)="/home/gnana/ferret/pals/exciting"/nolab supp[l=@ave,d=2]
 
 
-0% ....[ ] replacing bling with topaz
-0% ....[ ] various coupled atmosphere ocean regional models roms and wrf
+#5 0% ....[ ] replacing bling with topaz
+#6 0% ....[ ] various coupled atmosphere ocean regional models roms and wrf
 
-#2 0% .[ ] work with Anand on flux corrected mixing algorithm and coordinate with Mark. work to transition this in matlab, to esm2m and e3sm and run simulation with ideal dye tracer (set to 1 at the surface and watch it penetrate and evolve.
+#2 0% ....[ ] work with Anand on flux corrected mixing algorithm and coordinate with Mark. work to transition this in matlab, to esm2m and e3sm and run simulation with ideal dye tracer (set to 1 at the surface and watch it penetrate and evolve.
 
 
 https://hseo.whoi.edu/wp-content/uploads/sites/50/2015/11/SCOAR2_manual.pdf
