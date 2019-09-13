@@ -2,6 +2,7 @@
 -------------------
 2% ..[ ] get familiar with the ocean_nphysics_util.F90
 ------------------
+  ...[ ] literature review: D.B. Chelton,  R.A. deSzoeke, M.G. Schlax, K.E. Naggar, N. Siwertz Geographical Variability of the First Baroclinic Rossby Radius of Deformation Journal of Physical Oceanography (1998) vol 28 pages 433-460
 
 PLAN for Anand and I to go to the NOVEMBER 2019 Potomac E3SM meeting
 
