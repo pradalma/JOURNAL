@@ -66,7 +66,10 @@ go land
 
 set view ll
 sha/set_up/lev=(0,1,.1)(inf)="/home/gnana/ferret/pals/exciting"/nolab supp[l=@ave,d=2]
-
+-----------------------
+-----------------------
+./mom4p1/ocean_param/mixing/ocean_nphysics_util.F90
+-----------------------
 
 #5 0% ....[ ] replacing bling with topaz
 #6 0% ....[ ] various coupled atmosphere ocean regional models roms and wrf
