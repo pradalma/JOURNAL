@@ -1,4 +1,7 @@
 # JOURNAL
+-------------------
+[ ] get familiar with the ocean_nphysics_util.F90
+------------------
 
 PLAN for Anand and I to go to the NOVEMBER 2019 Potomac E3SM meeting
 
